@@ -1,0 +1,60 @@
+[33mcommit 44fb273173d9fca102c1b1218ae73d8e7ef4c5db[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Enes Yılmaz <enesyilmaz.ey3@gmail.com>
+Date:   Fri Sep 18 18:30:31 2026 +0300
+
+    message
+
+[33mcommit fc21bc1d264da89478fdecd08bccc70ae5724aa7[m
+Merge: e13190a cb370bd
+Author: Enes Yılmaz <enesyilmaz.ey3@gmail.com>
+Date:   Fri Sep 18 18:25:38 2026 +0300
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+[33mcommit e13190a65297eacaf09b19d49fddd7479d6d191f[m
+Author: Enes Yılmaz <enesyilmaz.ey3@gmail.com>
+Date:   Fri Sep 18 18:25:10 2026 +0300
+
+    Save current changes
+
+[33mcommit 2291b9efa6eec46ee359ca9ad30fc4efc33e9881[m
+Author: Enes Yılmaz <enesyilmaz.ey3@gmail.com>
+Date:   Fri Sep 18 18:16:18 2026 +0300
+
+    ...
+
+[33mcommit cb370bda4c5f997959b9d4e309d4c6c897865aa0[m
+Author: Enes Yılmaz <enesyilmaz.ey3@gmail.com>
+Date:   Tue Sep 15 21:18:38 2026 +0300
+
+    updted new file
+
+[33mcommit 609f9d8a90925d5e74705dc05cbb1c5ca9631def[m
+Author: Enes Yılmaz <enesyilmaz.ey3@gmail.com>
+Date:   Tue Sep 15 21:13:27 2026 +0300
+
+    update the txt file for fahreddin
+
+[33mcommit 117bbdfbc019bda9c862923e5b1e501945002787[m
+Author: Enes Yılmaz <enesyilmaz.ey3@gmail.com>
+Date:   Tue Sep 15 21:05:41 2026 +0300
+
+    new line in txt file
+
+[33mcommit 390427205c8028bd4e0398cae3eda52214b0258e[m
+Author: ylmzzzenes <146384814+ylmzzzenes@users.noreply.github.com>
+Date:   Tue Sep 15 19:51:45 2026 +0300
+
+    Update lyrics in song.txt
+
+[33mcommit 06b284ecedaf4a8473919e3164e4341c815be9c4[m
+Author: Enes Yılmaz <enesyilmaz.ey3@gmail.com>
+Date:   Tue Sep 15 15:40:02 2026 +0300
+
+    first 2 lines in song.txt
+
+[33mcommit a77d0f008aef7aee1abc0ec917e5b8c3d4950bb7[m
+Author: ylmzzzenes <146384814+ylmzzzenes@users.noreply.github.com>
+Date:   Tue Sep 15 15:30:52 2026 +0300
+
+    Initial commit

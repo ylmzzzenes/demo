@@ -3,12 +3,3 @@ sen var ya sen
 deplasman yolunda elimde siğaram 
 tek dileğim koyalım fenere koyalım kartala
 
-<<<<<<< HEAD
-Şampiyon Galatasaray
-
-Bunu Fahreddin anlasın diye yapıyorum.
-
-Fahreddin artık bunu anladı.
-=======
-Şampiyon Galatasaray
->>>>>>> parent of 609f9d8 (update the txt file for fahreddin)
